@@ -7,7 +7,7 @@ import 'experiences_page.dart';
 import 'offers_page.dart';
 import 'loginpage.dart';
 import 'bookastay.dart';
-import 'appfooter.dart';
+
 
 class Navbar extends StatefulWidget {
   const Navbar({super.key});

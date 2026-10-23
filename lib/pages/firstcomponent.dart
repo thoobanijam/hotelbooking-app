@@ -46,6 +46,6 @@ class FirstComponent extends StatelessWidget {
                     ),
                   );
                     
-                  ;
+                  
   }
 }

@@ -21,7 +21,7 @@ class _LoginPageState extends State<LoginPage> {
 
   static const Color navy = Color(0xFF0F1B2D);
   static const Color gold = Color(0xFFD4AF37);
-  static const Color lightGold = Color(0xFFEBBA50);
+ 
 
   @override
   void dispose() {
