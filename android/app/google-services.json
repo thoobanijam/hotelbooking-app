@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89983251439",
+    "project_id": "hotelbooking-app-bcbee",
+    "storage_bucket": "hotelbooking-app-bcbee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89983251439:android:7f1b40b1f662ed2c7d7c1a",
+        "android_client_info": {
+          "package_name": "com.example.hotelbooking_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrh5rNSJAPhN91u4uzXw8IFDKi8tNl_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
